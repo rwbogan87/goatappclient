@@ -1,0 +1,12 @@
+.Roster-header {
+    font-family: 'Varela', sans-serif;
+}
+
+.Roster-text {
+    font-size: small;
+}
+
+tr :hover {
+    cursor: default;
+    background-color: rgb(68, 68, 68);
+}
