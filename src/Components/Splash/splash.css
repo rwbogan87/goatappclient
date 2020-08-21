@@ -1,0 +1,22 @@
+.singletrophy {
+    display: flex;
+    flex-direction: column;
+    width: 200%;
+    position: relative;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+
+#trophy {
+    position: relative;
+    color: gold;
+    font-size: 5em;
+}
+
+.trophycase {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

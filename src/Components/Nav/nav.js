@@ -15,6 +15,7 @@ const Nav=()=> {
             <Link to="/Splash" className="li">Splash</Link><br />
             <Link to="/Roster" className="li">Roster</Link><br />
         </div>
+        <br />
         <div className="navroutes">
             <Switch>
             <Route exact path="/Splash"><Splash /></Route>

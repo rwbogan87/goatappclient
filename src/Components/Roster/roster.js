@@ -1,6 +1,6 @@
 import React from 'react'
 import { Table } from 'reactstrap'
-import PropTypes from 'prop-types';
+import PropTypes from 'prop-types'
 import './roster.css'
 
 // Running Roster - *Make changes here*

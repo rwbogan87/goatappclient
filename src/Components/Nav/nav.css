@@ -1,0 +1,13 @@
+.navroutes {
+    position: relative;
+    width: 100;
+    margin-top: 3em;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.navdiv {
+    position: relative;
+
+}
